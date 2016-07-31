@@ -1,0 +1,14 @@
+body,img {
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 480px;
+    height: 800px;
+}
+#myCanvas {
+    border: 1px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
